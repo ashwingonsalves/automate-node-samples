@@ -14,7 +14,7 @@ Sample for using nightwatch with BrowserStack Automate.
 
 ###Sample test
  - Path: `tests/google/googleTest.js`
- - To run: `nightwatch -t ./tests/google/googleTest.js -c ./settings.json`
+ - To run: `nightwatch -t tests/google/googleTest.js -c settings.json`
 
 [nightwatch]:http://nightwatchjs.org/guide
 [capabilities]:http://www.browserstack.com/automate/capabilities
