@@ -18,7 +18,9 @@
         "path" : ""
       },
       "desiredCapabilities": {
-        "browserName": "firefox",
+        "browserName" : "android",
+        "platform" : "ANDROID",
+        "device" : "Samsung Galaxy S5",
         "javascriptEnabled": true,
         "acceptSslCerts": true,
         "browserstack.user": "USERNAME",
