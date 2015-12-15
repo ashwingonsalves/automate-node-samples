@@ -18,9 +18,11 @@
         "path" : ""
       },
       "desiredCapabilities": {
-        "browserName" : "android",
-        "platform" : "ANDROID",
-        "device" : "Samsung Galaxy S5",
+        "browser" : "Chrome",
+        "browser_version" : "47.0",
+        "os" : "Windows",
+        "os_version" : "7",
+        "resolution" : "1024x768",
         "javascriptEnabled": true,
         "acceptSslCerts": true,
         "browserstack.user": "USERNAME",
